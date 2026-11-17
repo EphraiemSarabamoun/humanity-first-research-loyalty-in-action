@@ -1,0 +1,68 @@
+{
+ "_release_note": "Edited for release.",
+ "frozen_at": "2026-11-02",
+ "version": "qwen-observation",
+ "seed": 20261104,
+ "eligible": [
+  "labores.refunds_q.L1.s801.principal.neutral",
+  "labores.refunds_q.L1.s801.teammate.neutral",
+  "labores.refunds_q.L1.s802.principal.neutral",
+  "labores.refunds_q.L1.s802.teammate.neutral",
+  "labores.refunds_q.L1.s803.principal.neutral",
+  "labores.refunds_q.L1.s803.teammate.neutral",
+  "labores.refunds_q.L1.s804.principal.neutral",
+  "labores.refunds_q.L1.s804.teammate.neutral",
+  "labores.refunds_q.L1.s805.principal.neutral",
+  "labores.refunds_q.L1.s805.teammate.neutral",
+  "labores.refunds_q.L1.s806.principal.neutral",
+  "labores.refunds_q.L1.s806.teammate.neutral",
+  "labores.refunds_q.L1.s807.principal.neutral",
+  "labores.refunds_q.L1.s807.teammate.neutral",
+  "labores.refunds_q.L1.s808.principal.neutral",
+  "labores.refunds_q.L1.s808.teammate.neutral",
+  "labores.refunds_q.L1.s809.principal.neutral",
+  "labores.refunds_q.L1.s809.teammate.neutral",
+  "labores.refunds_q.L1.s810.principal.neutral",
+  "labores.refunds_q.L1.s810.teammate.neutral",
+  "labores.refunds_q.L1.s811.principal.neutral",
+  "labores.refunds_q.L1.s811.teammate.neutral",
+  "labores.refunds_q.L1.s812.principal.neutral",
+  "labores.refunds_q.L1.s812.teammate.neutral",
+  "labores.refunds_q.L1.s813.principal.neutral",
+  "labores.refunds_q.L1.s813.teammate.neutral",
+  "labores.refunds_q.L1.s814.principal.neutral",
+  "labores.refunds_q.L1.s814.teammate.neutral",
+  "labores.refunds_q.L1.s815.principal.neutral",
+  "labores.refunds_q.L1.s815.teammate.neutral",
+  "labores.refunds_q.L1.s816.principal.neutral",
+  "labores.refunds_q.L1.s816.teammate.neutral",
+  "labores.refunds_q.L1.s817.principal.neutral",
+  "labores.refunds_q.L1.s817.teammate.neutral",
+  "labores.refunds_q.L1.s818.principal.neutral",
+  "labores.refunds_q.L1.s818.teammate.neutral",
+  "labores.refunds_q.L1.s819.principal.neutral",
+  "labores.refunds_q.L1.s819.teammate.neutral",
+  "labores.refunds_q.L1.s820.principal.neutral",
+  "labores.refunds_q.L1.s820.teammate.neutral",
+  "labores.refunds_q.L1.s821.principal.neutral",
+  "labores.refunds_q.L1.s821.teammate.neutral",
+  "labores.refunds_q.L1.s822.principal.neutral",
+  "labores.refunds_q.L1.s822.teammate.neutral",
+  "labores.refunds_q.L1.s823.principal.neutral",
+  "labores.refunds_q.L1.s823.teammate.neutral",
+  "labores.refunds_q.L1.s824.principal.neutral",
+  "labores.refunds_q.L1.s824.teammate.neutral"
+ ],
+ "stop_rule": {
+  "met": true,
+  "note": "no calibration screen; every unit runs (anulus v0.4's rule)"
+ },
+ "binding": {
+  "build": {
+   "engine_sha256": "6aa8e235595f15f96e7de16efaad6ab36aef38f779b857e05dfa4028a75ebc61"
+  },
+  "subject": {
+   "model": "Qwen3.8-27B"
+  }
+ }
+}

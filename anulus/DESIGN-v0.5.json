@@ -1,0 +1,15 @@
+{
+ "_release_note": "Edited for release.",
+ "version": "v0.5",
+ "written": "2026-11-01",
+ "plan_episodes": 768,
+ "plan_seed": 20261106,
+ "binding": {
+  "build": {
+   "engine_sha256": "6aa8e235595f15f96e7de16efaad6ab36aef38f779b857e05dfa4028a75ebc61"
+  },
+  "subject": {
+   "model": "claude-sonnet-5-5"
+  }
+ }
+}

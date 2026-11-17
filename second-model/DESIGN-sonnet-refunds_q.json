@@ -1,0 +1,20 @@
+{
+ "_release_note": "Edited for release.",
+ "version": "sonnet-refunds_q",
+ "written": "2026-11-02",
+ "plan_episodes": 576,
+ "family": "refunds_q",
+ "level": 1,
+ "seeds": [
+  801,
+  824
+ ],
+ "binding": {
+  "build": {
+   "engine_sha256": "6aa8e235595f15f96e7de16efaad6ab36aef38f779b857e05dfa4028a75ebc61"
+  },
+  "subject": {
+   "model": "claude-sonnet-5-5"
+  }
+ }
+}

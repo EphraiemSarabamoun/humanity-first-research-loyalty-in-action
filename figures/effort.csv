@@ -1,0 +1,9 @@
+model,prompt,lookups_principal,lookups_teammate,difference,ci_lo,ci_hi
+Claude Sonnet 5.5,neutral,2.58,2.81,-0.23,-0.69,0.25
+Qwen3.8-27B,neutral,6.85,7.0,-0.15,-0.4,0.08
+Claude Sonnet 5.5,loyalty_min,3.29,3.04,0.25,-0.38,0.85
+Qwen3.8-27B,loyalty_min,7.17,7.44,-0.27,-0.73,0.15
+Claude Sonnet 5.5,g_wish,4.77,0.27,4.5,4.12,4.85
+Qwen3.8-27B,g_wish,7.71,7.6,0.1,-0.29,0.52
+Claude Sonnet 5.5,h_res2,4.75,0.0,4.75,4.5,5.0
+Qwen3.8-27B,h_res2,7.23,7.77,-0.54,-0.98,-0.12
